@@ -51,7 +51,3 @@ Open insomnia and try it out!
 
 [Github]https://github.com/JMADA257
 Please email me here for further questions. Jadams1812@hotmail.com
-
-## LINK
-
-(https://drive.google.com/file/d/1pRLCnqiaGJETnNU2Qpbs5PYu81cZZSPd/view)
